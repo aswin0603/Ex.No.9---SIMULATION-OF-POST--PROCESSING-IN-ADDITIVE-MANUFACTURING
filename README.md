@@ -1,4 +1,4 @@
-# Ex.No.  - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
+# Ex.No. 06.02 - SIMULATION OF POST PROCESSING IN ADDITIVE MANUFACTURING
 
 ### DATE: 14.12.2024
 
@@ -50,7 +50,7 @@
 
 
 ### Name: ASWIN B
-### Register Number: 24900642
+### Register Number: 212224110007
 
 ## Result: 
 ### Thus the simulation on the Postprocessing in additive manufacturing is completed.
